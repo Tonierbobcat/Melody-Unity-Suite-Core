@@ -1,0 +1,10 @@
+{
+  "name": "com.loficostudios.core",
+  "version": "1.0.0",
+  "displayName": "Core",
+  "description": "Library.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Logan"
+  }
+}
