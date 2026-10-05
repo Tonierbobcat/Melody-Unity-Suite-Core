@@ -1,6 +1,6 @@
 {
     "name": "Core.Editor",
-    "rootNamespace": "",
+    "rootNamespace": "MelodySuite.Core.Editor",
     "references": [
         "GUID:af952bcd32b35e095beced13e1c12f36"
     ],

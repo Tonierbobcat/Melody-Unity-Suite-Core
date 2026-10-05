@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Reflection;
 using UnityEngine;
 
-namespace Core.Runtime
+namespace MelodySuite.Core.Runtime
 {
     /// <summary>
     /// Copy-on-write delegate list: safe to modify during Invoke.

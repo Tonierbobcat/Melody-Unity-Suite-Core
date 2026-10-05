@@ -4,11 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Runtime.CompilerServices;
-using Core.Runtime;
+using MelodySuite.Core.Runtime;
 using UnityEditor;
 using UnityEngine;
 
-namespace Core.Editor
+namespace MelodySuite.Core.Editor
 {
     /// <summary>
     /// Draws a single Listener. When used through UEventDrawer it knows the

@@ -1,12 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Core.Runtime;
+using MelodySuite.Core.Runtime;
 using UnityEditor;
 using UnityEditorInternal;
 using UnityEngine;
 
-namespace Core.Editor
+namespace MelodySuite.Core.Editor
 {
     /// <summary>
     /// Draws UEvent / UEvent&lt;T...&gt; as a UnityEvent-style list.
